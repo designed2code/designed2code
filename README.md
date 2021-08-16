@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @designed2code
-- 👀 I’m interested in web dev and dsa
+- 👀 I’m interested in web dev and Problem Solving
 - 🌱 I’m currently learning web development
 - 📫 How to reach me ...
  destined2code@gmail.com
