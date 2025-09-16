@@ -8,12 +8,6 @@
 </p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=designed2code&label=Profile%20views&color=0e75b6&style=flat" alt="designed2code" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=designed2code" alt="designed2code" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/sachiny88049" target="blank"><img src="https://img.shields.io/twitter/follow/sachiny88049?logo=twitter&style=for-the-badge" alt="sachiny88049" /></a> </p>
-
 - 🌱 I’m currently learning **Generative AI**
 
 - 📝 I regularly write articles on [https://dev.to/sachin_yadav_01b3080e2538/leetcode-678-valid-parenthesis-string-59na](https://dev.to/sachin_yadav_01b3080e2538/leetcode-678-valid-parenthesis-string-59na)
